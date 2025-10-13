@@ -1,4 +1,6 @@
-## Hi there 👋
+PhD Candidate | AI Institute, University of South Carolina
+
+![github stats](https://github-readme-stats.vercel.app/api?username=khvedant02&show_icons=true&cache=0)
 
 <!--
 **khvedant02/khvedant02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
