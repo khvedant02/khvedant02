@@ -1,6 +1,7 @@
 PhD Candidate | AI Institute, University of South Carolina
 
-![github stats](https://github-readme-stats.vercel.app/api?username=khvedant02&show_icons=true&cache=0)
+![github stats](https://github-readme-stats.vercel.app/api?username=khvedant02&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khvedant02&layout=compact&theme=radical)
 
 <!--
 **khvedant02/khvedant02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
